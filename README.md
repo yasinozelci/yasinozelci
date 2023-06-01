@@ -18,8 +18,6 @@ Software engineer, also a graduate of Mobile Technologies.<br>Web3 World enthusi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yasinozelci&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://random-meme.glitch.me/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yasinozelci&icon=0&color=8)](https://visitcount.itsvg.in)
